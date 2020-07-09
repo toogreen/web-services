@@ -448,7 +448,7 @@
               <h3 class="mb-0 text-white">start your next big project with toogreen!</h3>
             </div>
             <div class="col-lg-auto pr-lg-5 mt-4 mt-lg-0">
-              <a class="btn btn-light" href="#">get started</a>
+              <a class="btn btn-light" href="mailto:toogreen@gmail.com">get started</a>
             </div>
           </div>
         </div>

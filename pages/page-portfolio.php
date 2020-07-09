@@ -140,9 +140,6 @@
               <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/antenna.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/toogreen/antenna.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
               </a>
-              <a class="col-6 col-md-3 sortable-item p-2 logo" href="http://www.toogreen.ca/cv/img/logos/iqi.png" data-lightbox="image" data-title="my caption">
-                <img class="rounded w-100 fit-cover" src="http://www.toogreen.ca/cv/img/logos/iqi.png" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
-              </a>
 
               <div class="col-6 col-md-3 sortable-item p-2 web">
                 <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
@@ -158,6 +155,11 @@
               <a class="col-6 col-md-3 sortable-item p-2 logo" href="http://www.toogreen.ca/cv/img/logos/haiguish.png" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="http://www.toogreen.ca/cv/img/logos/haiguish.png" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
               </a>
+
+              <a class="col-6 col-md-3 sortable-item p-2 logo" href="http://www.toogreen.ca/cv/img/logos/iqi.png" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="http://www.toogreen.ca/cv/img/logos/iqi.png" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a>
+
             </div>
           </div>
         </div>

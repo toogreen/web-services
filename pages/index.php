@@ -470,7 +470,7 @@
             <div class="w-100"></div>
             <div class="col-lg-6 pt-5 pt-xl-7" data-zanim-timeline='{"delay":0}' data-zanim-trigger="scroll">
               <div class="hoverbox">
-                <img class="rounded img-fluid" src="assets/img/team/9.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.1}' />
+                <img class="rounded img-fluid" src="assets/img/toogreen/selfie.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.1}' />
                 <div class="hoverbox-content p-3">
                   <div class="d-flex align-items-end justify-content-end h-100">
                     <a class="text-white" href="#"><span class="fs-1 ml-2 fab fa-twitter"></span></a>

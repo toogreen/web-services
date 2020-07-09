@@ -367,7 +367,7 @@
                   <div class="process-item process-item-last ml-6 ml-sm-8 ml-lg-6"><span class="process-item-number">04</span>
                     <h3>deploy</h3>
                     <p>After testing and review, I will present your new website. Upon your approval, your website will be launched, promoted and optimized for search engines such as Google &amp; Bing.</p>
-                    <a class="btn btn-outline-dark btn-sm mt-3" href="page-portfolio.html">See portfolio</a>
+                    <a class="btn btn-outline-dark btn-sm mt-3" href="page-portfolio.php">See portfolio</a>
                   </div>
                 </div>
               </div>

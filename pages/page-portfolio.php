@@ -94,19 +94,19 @@
             <div class="row no-gutters sortable-container sortable-container-gutter-fix" data-zanim-timeline="{}" data-zanim-trigger="scroll">
               <div class="col-6 col-md-3 sortable-item p-2 interior">
                 <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in"}'>
-                  <img class="w-100" src="http://www.toogreen.ca/cv/img/websites/mtventures.png" alt="" />
+                  <img class="w-100 web" src="http://www.toogreen.ca/cv/img/websites/mtventures.png" alt="" />
                   <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
                     <div class="px-4">
                       <h5 class="text-white">Next gen web interface design</h5>
-                      <a class="btn btn-outline-light btn-xs mt-3" href="page-casestudy.html">learn more</a>
+                      <a class="btn btn-outline-light btn-xs mt-3" href="https://mtventures.ca">learn more</a>
                     </div>
                   </div>
                 </div>
               </div>
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/gallery/07-f.jpg" data-lightbox="image" data-title="my caption">
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/buddha.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/gallery/07.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.1}' />
               </a>
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/gallery/09-f.jpg" data-lightbox="image" data-title="my caption">
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/sunset.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/gallery/09.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.7}' />
               </a>
               <a class="col-6 col-md-3 sortable-item p-2 studio" href="assets/img/gallery/04-f.jpg" data-lightbox="image" data-title="my caption">
@@ -114,7 +114,7 @@
               </a>
               <div class="col-6 col-md-3 sortable-item p-2 interior">
                 <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
-                  <img class="w-100 fit-cover" src="assets/img/gallery/05.jpg" alt="" />
+                  <img class="w-100 fit-cover web" src="http://www.toogreen.ca/cv/img/projects/softvoyage.png" alt="" />
                   <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
                     <div class="px-4">
                       <h5 class="text-white">Next gen web interface design</h5>
@@ -126,7 +126,7 @@
               <a class="col-6 col-md-3 sortable-item p-2 studio illustration" href="assets/img/gallery/06-f.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/gallery/06.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.3}' />
               </a>
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/gallery/10-f.jpg" data-lightbox="image" data-title="my caption">
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/antenna.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/gallery/10.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
               </a>
               <div class="col-6 col-md-3 sortable-item p-2 illustration">

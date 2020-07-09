@@ -33,6 +33,25 @@
     <link href="assets/lib/owl.carousel/owl.carousel.css" rel="stylesheet">
     <link href="assets/lib/lightbox2/css/lightbox.min.css" rel="stylesheet">
     <link href="assets/css/theme.css" rel="stylesheet">
+
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169940317-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-169940317-1');
+    </script>
+
+    <!-- AdSense -->
+    <script data-ad-client="ca-pub-7401520800104068" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+
   </head>
 
   <!-- body with Navbar body class="has-sidemenu overflow-hidden-x" -->

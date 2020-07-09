@@ -386,7 +386,7 @@
                   <div class="process-item process-item-last ml-6 ml-sm-8 ml-lg-6"><span class="process-item-number">04</span>
                     <h3>deploy</h3>
                     <p>After testing and review, I will present your new website. Upon your approval, your website will be launched, promoted and optimized for search engines such as Google &amp; Bing.</p>
-                    <a class="btn btn-outline-dark btn-sm mt-3" href="page-portfolio.php">See portfolio</a>
+                    <a class="btn btn-outline-dark btn-sm mt-3" href="#portfolio">See portfolio</a>
                   </div>
                 </div>
               </div>
@@ -512,6 +512,113 @@
       </section>
       <!-- <section> close ============================-->
       <!-- ============================================-->
+
+
+
+      <!-- ============================================-->
+      <!-- <section> begin ============================-->
+      <a name="portfolio"></a>
+      <section class="mt-5 mt-lg-0 py-lg-7" id="page-portfolio">
+        <div class="container">
+          <div class="row mb-5 mb-lg-7">
+            <div class="col-lg-6">
+              <h1 class="text-underline d-inline fs-4 fs-md-5">portfolio</h1>
+              <p class="mt-3">The following layout is made using isotope, a jQuery plugin which allows you to create multi-column, dynamic grid layouts. The first script out there that allows you a complete gap-free layout.</p>
+            </div>
+          </div>
+          <div class="sortable min-vh-100" data-options='{"layoutMode":"packery"}'>
+            <div class="menu mb-2">
+              <div class="item active" data-filter="*">all</div>
+              <div class="item" data-filter=".photography">photography</div>
+              <div class="item" data-filter=".web">web</div>
+              <div class="item" data-filter=".logo">logo</div>
+            </div>
+            <div class="row no-gutters sortable-container sortable-container-gutter-fix" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+              <div class="col-6 col-md-3 sortable-item p-2 web">
+                <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in"}'>
+                  <img class="w-100" src="http://www.toogreen.ca/cv/img/websites/mtventures.png" alt="" />
+                  <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
+                    <div class="px-4">
+                      <h5 class="text-white">Next gen web interface design</h5>
+                      <a class="btn btn-outline-light btn-xs mt-3" href="https://mtventures.ca">visit website</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/buddha.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/buddha.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.1}' />
+              </a>
+
+
+              <div class="col-6 col-md-3 sortable-item p-2 web">
+                <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
+                  <img class="w-100 fit-cover web" src="http://www.toogreen.ca/cv/img/projects/softvoyage.png" alt="" />
+                  <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
+                    <div class="px-4">
+                      <h5 class="text-white">Next gen web interface design</h5>
+                      <a class="btn btn-outline-light btn-xs mt-3" href="https://www.softvoyage.com">visit website</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/sunset.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/sunset.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.7}' />
+              </a>
+
+
+              <div class="col-6 col-md-3 sortable-item p-2 web">
+                <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
+                  <img class="w-100 fit-cover web" src="http://www.toogreen.ca/cv/img/projects/mtversion.png" alt="" />
+                  <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
+                    <div class="px-4">
+                      <h5 class="text-white">Next gen web interface design</h5>
+                      <a class="btn btn-outline-light btn-xs mt-3" href="https://www.mtversion.com">visit website</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/antenna.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/antenna.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a>
+
+              <div class="col-6 col-md-3 sortable-item p-2 web">
+                <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
+                  <img class="w-100 fit-cover web" src="http://www.toogreen.ca/cv/img/projects/avenirmd.png" alt="" />
+                  <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
+                    <div class="px-4">
+                      <h5 class="text-white">Next gen web interface design</h5>
+                      <a class="btn btn-outline-light btn-xs mt-3" href="https://www.avenirmd.com">visit website</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <a class="col-6 col-md-3 sortable-item p-2 logo" href="http://www.toogreen.ca/cv/img/logos/haiguish.png" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="http://www.toogreen.ca/cv/img/logos/haiguish.png" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a>
+
+              <a class="col-6 col-md-3 sortable-item p-2 logo" href="http://www.toogreen.ca/cv/img/logos/iqi.png" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="http://www.toogreen.ca/cv/img/logos/iqi.png" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a>
+
+<!--               <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/statue.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/statue.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a>
+
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/notre-dame.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/notre-dame.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a> -->
+
+            </div>
+          </div>
+        </div>
+        <!-- end of .container-->
+      </section>
+      <!-- <section> close ============================-->
+      <!-- ============================================-->
+
+
 
 
     </main>

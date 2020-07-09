@@ -131,46 +131,15 @@
                   </div>
                 </div>
               </div>
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/antenna.jpg" data-lightbox="image" data-title="my caption">
-                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/antenna.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
-              </a>
-              <div class="col-6 col-md-3 sortable-item p-2 illustration">
-                <div class="position-relative">
-                  <img class="rounded w-100 fit-cover" src="assets/img/gallery/01.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.6}' />
-                  <a class="d-flex align-items-end justify-content-end h-100 pb-3 pr-3 position-absolute b-0 r-0" href="https://www.youtube.com/watch?v=HbAzApdYtdw" data-fancybox="data-fancybox" data-options='{"start":1,"end":64}'>
-                    <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 274.19 274.19" data-zanim-svg='{"duration":2,"ease":"CubicBezier","trigger":"scroll"}'>
-                      <defs>
-                        <style>
-                          .play-path {
-                            fill: none;
-                            stroke: #ffffff;
-                            stroke-linecap: round;
-                            stroke-linejoin: round;
-                            stroke-width: 12px;
-                          }
-                        </style>
-                      </defs>
-                      <g>
-                        <path class="play-path" d="M208.31,29.4A129.12,129.12,0,1,1,137.1,8m-1.48,170.53L199.94,137,104.07,79.46v113"></path>
-                      </g>
-                    </svg>
-                  </a>
-                </div>
-              </div>
-              <div class="col-12 col-sm-6 sortable-item p-2 illustration">
+
+              <div class="col-12 col-sm-6 sortable-item p-2 logo">
                 <div class="embed-responsive embed-responsive-4by3">
                   <div class="owl-carousel owl-theme owl-dots-inner owl-theme-white embed-responsive-item" data-options='{"items":1,"autoplay":true,"loop":true,"animateOut":"fadeOut","nav":true}' data-zanim-xs='{"animation":"zoom-in","delay":0.8}'>
-                    <img class="w-100 fit-cover rounded" src="assets/img/gallery/11.jpg" alt="" />
-                    <img class="w-100 fit-cover rounded" src="assets/img/gallery/12.jpg" alt="" />
+                    <img class="w-100 fit-cover rounded" src="http://www.toogreen.ca/cv/img/logos/varsity.png" alt="" />
+                    <img class="w-100 fit-cover rounded" src="http://www.toogreen.ca/cv/img/logos/iqi.png" alt="" />
                   </div>
                 </div>
               </div>
-              <a class="col-6 col-md-3 sortable-item p-2 interior" href="assets/img/gallery/02-f.jpg" data-lightbox="image" data-title="my caption">
-                <img class="rounded w-100 fit-cover" src="assets/img/gallery/02.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.3}' />
-              </a>
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="page-casestudy.html">
-                <img class="rounded w-100 fit-cover" src="assets/img/gallery/08.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.4}' />
-              </a>
             </div>
           </div>
         </div>

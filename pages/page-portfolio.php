@@ -120,6 +120,19 @@
                   </div>
                 </div>
               </div>
+
+              <div class="col-6 col-md-3 sortable-item p-2 web">
+                <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
+                  <img class="w-100 fit-cover web" src="http://www.toogreen.ca/cv/img/projects/mtversion.png" alt="" />
+                  <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
+                    <div class="px-4">
+                      <h5 class="text-white">Next gen web interface design</h5>
+                      <a class="btn btn-outline-light btn-xs mt-3" href="https://www.mtversion.com">visit website</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
               <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/antenna.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/toogreen/antenna.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
               </a>

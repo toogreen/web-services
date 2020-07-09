@@ -131,12 +131,15 @@
                   </div>
                 </div>
               </div>
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/antenna.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/antenna.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
+              </a>
 
               <div class="col-12 col-sm-6 sortable-item p-2 logo">
                 <div class="embed-responsive embed-responsive-4by3">
                   <div class="owl-carousel owl-theme owl-dots-inner owl-theme-white embed-responsive-item" data-options='{"items":1,"autoplay":true,"loop":true,"animateOut":"fadeOut","nav":true}' data-zanim-xs='{"animation":"zoom-in","delay":0.8}'>
-                    <img class="w-100 fit-cover rounded" src="http://www.toogreen.ca/cv/img/logos/varsity.png" alt="" />
                     <img class="w-100 fit-cover rounded" src="http://www.toogreen.ca/cv/img/logos/iqi.png" alt="" />
+                    <img class="w-100 fit-cover rounded" src="http://www.toogreen.ca/cv/img/logos/haiguish.png" alt="" />
                   </div>
                 </div>
               </div>

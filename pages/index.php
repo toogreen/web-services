@@ -424,7 +424,7 @@
               <div class="progress-line mr-4 mt-4" data-options='{"progress":96,"text":"Pingdom Page Speed"}'></div>
               <div class="progress-line mr-4 mt-4" data-options='{"progress":90,"text":"Sparrow Performance Matrix"}'></div>
               <p class="mt-4">Combined with the power of bootstrap, my templates can provide helpful elements to make web design easier and make your website load faster than ever.</p>
-              <a class="btn btn-outline-dark px-5 mt-5" href="#">see comparison</a>
+              <!-- <a class="btn btn-outline-dark px-5 mt-5" href="#">see comparison</a> -->
             </div>
           </div>
         </div>
@@ -435,125 +435,6 @@
 
 
 
-      <!-- ============================================-->
-      <!-- <section> begin ============================-->
-      <section class="overflow-hidden py-0" id="default-cta-2">
-        <div class="container">
-          <div class="position-absolute overflow-hidden a-0">
-            <div class="bg-holder overlay overlay-2 rounded" style="background-image:url(assets/img/headers/header-47.jpg);" data-zanim-trigger="scroll" data-zanim-lg='{"animation":"zoom-out","delay":0}'></div>
-            <!--/.bg-holder-->
-          </div>
-          <div class="row align-items-center justify-content-center text-center py-8">
-            <div class="col-lg">
-              <h1 class="mb-0 text-white">2 million</h1>
-              <h6 class="text-300 fs-0">happy customers &amp; counting</h6>
-              <a class="btn btn-outline-light btn-sm mt-4 border-2x" href="#">read user stories</a>
-            </div>
-            <div class="col-lg-7 px-lg-8 mt-6 mt-lg-0">
-              <div class="owl-carousel owl-theme owl-nav-outer" data-options='{"dots":false,"nav":true,"items":1,"autoplay":true,"loop":true,"autoplayHoverPause":true}'>
-                <div class="item">
-                  <h4 class="text-serif font-weight-light text-white font-italic fs-1 fs-sm-2 mb-4">"toogreen ensures that I sleep like a little baby every single night"</h4>
-                  <h6 class="fs-0 mb-0 text-white font-weight-black">Mane Dumas</h6>
-                  <h6 class="fs-0 mb-0 font-weight-normal text-400">web designer</h6>
-                </div>
-                <div class="item">
-                  <h4 class="text-serif font-weight-light text-white font-italic fs-1 fs-sm-2 mb-4">"With no writing of any CSS code &mdash; customize almost everything"</h4>
-                  <h6 class="fs-0 mb-0 text-white font-weight-black">Jane Dumas</h6>
-                  <h6 class="fs-0 mb-0 font-weight-normal text-400">developer</h6>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-      </section>
-      <!-- <section> close ============================-->
-      <!-- ============================================-->
-
-
-
-      <!-- ============================================-->
-      <!-- <section> begin ============================-->
-      <section id="default-pricing-plan">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-lg-6 mb-7 text-center">
-              <h2 class="fs-3 fs-sm-4 text-underline mb-3">find the right plan</h2>
-              <p class="text-500 font-italic">toogreen gives you the best output at the lowest investment and fills all your needs. Choose from the pricing plans that suits you best.</p>
-            </div>
-          </div>
-          <div class="row justify-content-center justify-content-md-start text-center text-md-left">
-            <div class="col-10 col-md-6 col-lg-4 pr-md-4 pr-lg-6" data-zanim-timeline="{}" data-zanim-trigger="scroll">
-              <img class="mb-3" src="assets/img/icons/package1.svg" alt="" width="120" height="120" />
-              <div class="overflow-hidden">
-                <h2 data-zanim-xs='{"delay":0.1}'>personal</h2>
-              </div>
-              <div class="overflow-hidden">
-                <h4 class="text-serif font-weight-light font-italic mb-0 text-600" data-zanim-xs='{"delay":0.2}'>forever</h4>
-              </div>
-              <div class="overflow-hidden">
-                <h4 class="mb-4" data-zanim-xs='{"delay":0.3}'>free</h4>
-              </div>
-              <div class="overflow-hidden">
-                <p data-zanim-xs='{"delay":0.4}'>Create beautiful, professional campaigns for free—no design or coding experience necessary. It's so easy, you can start sending today.</p>
-              </div>
-              <div class="overflow-hidden">
-                <div data-zanim-xs='{"delay":0.5}'>
-                  <a class="btn btn-link pl-md-0 text-black font-weight-black" href="#">join now<span class="d-inline-block">&xrarr;</span></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-10 col-md-6 col-lg-4 px-lg-4 mt-6 mt-md-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
-              <img class="mb-3" src="assets/img/icons/package2.svg" alt="" width="120" height="120" />
-              <div class="overflow-hidden">
-                <h2 data-zanim-xs='{"delay":0.1}'>business</h2>
-              </div>
-              <div class="overflow-hidden">
-                <h4 class="text-serif font-weight-light font-italic mb-0 text-600" data-zanim-xs='{"delay":0.2}'>starting at</h4>
-              </div>
-              <div class="overflow-hidden">
-                <h4 class="mb-4 d-flex align-items-center" data-zanim-xs='{"delay":0.3}'><span>$10 per month</span><span class="border border-danger text-danger font-weight-semi-bold px-1 fs--1 rounded ml-2">Save 50%</span></h4>
-              </div>
-              <div class="overflow-hidden">
-                <ul class="style-check pl-0" data-zanim-xs='{"delay":0.4}'>
-                  <li class="d-inline-block d-md-block">Level up with automation</li>
-                  <li class="d-inline-block d-md-block">Workflows, e-commerce-focused</li>
-                  <li class="d-inline-block d-md-block">Features, and more tools that</li>
-                  <li class="d-inline-block d-md-block">Refine your marketing strategy</li>
-                </ul>
-              </div>
-              <div class="overflow-hidden">
-                <div data-zanim-xs='{"delay":0.5}'>
-                  <a class="btn btn-link pl-md-0 text-black font-weight-black" href="#">learn more<span class="d-inline-block">&xrarr;</span></a>
-                </div>
-              </div>
-            </div>
-            <div class="col-10 col-md-6 col-lg-4 pl-lg-6 mt-6 mt-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
-              <img class="mb-3" src="assets/img/icons/package3.svg" alt="" width="120" height="120" />
-              <div class="overflow-hidden">
-                <h2 data-zanim-xs='{"delay":0.1}'>enterprise</h2>
-              </div>
-              <div class="overflow-hidden">
-                <h4 class="text-serif font-weight-light font-italic mb-0 text-600" data-zanim-xs='{"delay":0.2}'>additional</h4>
-              </div>
-              <div class="overflow-hidden">
-                <h4 class="mb-4" data-zanim-xs='{"delay":0.3}'>$199 per year</h4>
-              </div>
-              <div class="overflow-hidden">
-                <p data-zanim-xs='{"delay":0.4}'>Improve performance with enterprise-level features for high-volume senders like multivariate testing and much more features.</p>
-              </div>
-              <div class="overflow-hidden">
-                <div data-zanim-xs='{"delay":0.5}'>
-                  <a class="btn btn-link pl-md-0 text-black font-weight-black" href="#">contact sales<span class="d-inline-block">&xrarr;</span></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of .container-->
-      </section>
-      <!-- <section> close ============================-->
-      <!-- ============================================-->
 
 
 
@@ -583,8 +464,8 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-lg-7 col-xl-6">
-              <h2 class="fs-3 fs-sm-4 text-underline mb-3">meet the crews</h2>
-              <p class="text-500 font-italic">A passionate group of experienced designers, developers and programmers motivated to continually reach goals and tackle new challenges</p>
+              <h2 class="fs-3 fs-sm-4 text-underline mb-3">meet toogreen</h2>
+              <p class="text-500 font-italic">A passionate designer, developer and programmer motivated to continually reach goals and tackle new challenges</p>
             </div>
             <div class="w-100"></div>
             <div class="col-lg-6 pt-5 pt-xl-7" data-zanim-timeline='{"delay":0}' data-zanim-trigger="scroll">
@@ -598,11 +479,11 @@
               </div>
               <div class="overflow-hidden">
                 <a href="page-profile.html">
-                  <h5 class="fs-0 font-weight-bold mt-3 mb-1" data-zanim-xs='{"from":{"y":45},"delay":0.2}'>Elizabeth Swan</h5>
+                  <h5 class="fs-0 font-weight-bold mt-3 mb-1" data-zanim-xs='{"from":{"y":45},"delay":0.2}'>David Gagnon</h5>
                 </a>
               </div>
               <div class="overflow-hidden">
-                <h6 class="text-700 font-weight-normal text-uppercase ls" data-zanim-xs='{"from":{"y":22},"delay":0.3}'>The Lady</h6>
+                <h6 class="text-700 font-weight-normal text-uppercase ls" data-zanim-xs='{"from":{"y":22},"delay":0.3}'>The Geek</h6>
               </div>
             </div>
             <div class="col-lg-6 pt-5 pt-xl-7" data-zanim-timeline='{"delay":0.1}' data-zanim-trigger="scroll">

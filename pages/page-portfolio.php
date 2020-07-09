@@ -106,9 +106,8 @@
               <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/buddha.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/toogreen/buddha.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.1}' />
               </a>
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/sunset.jpg" data-lightbox="image" data-title="my caption">
-                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/sunset.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.7}' />
-              </a>
+
+
               <div class="col-6 col-md-3 sortable-item p-2 web">
                 <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>
                   <img class="w-100 fit-cover web" src="http://www.toogreen.ca/cv/img/projects/softvoyage.png" alt="" />
@@ -120,6 +119,11 @@
                   </div>
                 </div>
               </div>
+
+              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/sunset.jpg" data-lightbox="image" data-title="my caption">
+                <img class="rounded w-100 fit-cover" src="assets/img/toogreen/sunset.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.7}' />
+              </a>
+
 
               <div class="col-6 col-md-3 sortable-item p-2 web">
                 <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in","delay":0.2}'>

@@ -160,13 +160,13 @@
                 <img class="rounded w-100 fit-cover" src="http://www.toogreen.ca/cv/img/logos/iqi.png" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
               </a>
 
-              <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/statue.jpg" data-lightbox="image" data-title="my caption">
+<!--               <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/statue.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/toogreen/statue.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
               </a>
 
               <a class="col-6 col-md-3 sortable-item p-2 photography" href="assets/img/toogreen/notre-dame.jpg" data-lightbox="image" data-title="my caption">
                 <img class="rounded w-100 fit-cover" src="assets/img/toogreen/notre-dame.jpg" alt="" data-zanim-xs='{"animation":"zoom-in","delay":0.5}' />
-              </a>
+              </a> -->
 
             </div>
           </div>

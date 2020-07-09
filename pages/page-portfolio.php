@@ -88,14 +88,13 @@
             <div class="menu mb-2">
               <div class="item active" data-filter="*">all</div>
               <div class="item" data-filter=".photography">photography</div>
-              <div class="item" data-filter=".studio">studio</div>
-              <div class="item" data-filter=".interior">interior</div>
-              <div class="item" data-filter=".illustration">illustration</div>
+              <div class="item" data-filter=".web">web</div>
+              <div class="item" data-filter=".logo">logo</div>
             </div>
             <div class="row no-gutters sortable-container sortable-container-gutter-fix" data-zanim-timeline="{}" data-zanim-trigger="scroll">
               <div class="col-6 col-md-3 sortable-item p-2 interior">
                 <div class="hoverbox rounded overflow-hidden" data-zanim-xs='{"animation":"zoom-in"}'>
-                  <img class="w-100" src="assets/img/gallery/03.jpg" alt="" />
+                  <img class="w-100" src="http://www.toogreen.ca/cv/img/websites/mtventures.png" alt="" />
                   <div class="hoverbox-content bg-dark d-flex align-items-center justify-content-center text-center">
                     <div class="px-4">
                       <h5 class="text-white">Next gen web interface design</h5>
@@ -192,11 +191,11 @@
             <a class="indicator indicator-up" href="#top" data-fancyscroll="data-fancyscroll"><span class="indicator-arrow indicator-arrow-one" data-zanim-xs='{"from":{"opacity":0,"y":15},"to":{"opacity":1,"y":-5,"scale":1},"ease":"Back.easeOut","duration":0.4,"delay":0.9}'></span><span class="indicator-arrow indicator-arrow-two" data-zanim-xs='{"from":{"opacity":0,"y":15},"to":{"opacity":1,"y":-5,"scale":1},"ease":"Back.easeOut","duration":0.4,"delay":1.05}'></span></a>
           </div>
           <div class="col-lg-4 text-lg-left mt-4 mt-lg-0">
-            <p class="fs--1 text-uppercase ls font-weight-bold mb-0">Copyright &copy; 2018 Sparrow&trade; inc.</p>
+            <p class="fs--1 text-uppercase ls font-weight-bold mb-0">Copyright &copy; 2020 toogreen&trade; inc.</p>
           </div>
           <div class="col-lg-4 text-lg-right order-lg-2 mt-2 mt-lg-0">
             <p class="fs--1 text-uppercase ls font-weight-bold mb-0">Made with<span class="text-danger fas fa-heart mx-1"></span>by
-              <a class="text-600" href="https://themewagon.com/">Themewagon</a>
+              <a class="text-600" href="https://toogreen.ca/">toogreen</a>
             </p>
           </div>
         </div>

@@ -708,6 +708,8 @@
     <script src="assets/lib/fancybox/jquery.fancybox.min.js"></script>
     <script src="assets/lib/owl.carousel/owl.carousel.js"></script>
     <script src="assets/lib/lightbox2/js/lightbox.min.js"></script>
+    <script src="assets/lib/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/lib/isotope-packery/packery-mode.pkgd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser-polyfill.min.js"></script>
     <script src="assets/js/progressbar.min.js"></script>
     <script src="assets/js/theme.js"></script>

@@ -236,7 +236,7 @@
                     <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>responsive CSS helper classes</h4>
                   </div>
                   <div class="overflow-hidden">
-                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Toggle styles on any element, across any breakpoint according to Bootstrap grid system, using Sparrow's CSS helper classes.</p>
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Toggle styles on any element, across any breakpoint according to Bootstrap grid system, using customized CSS helper classes.</p>
                   </div>
                 </div>
               </div>
@@ -281,7 +281,7 @@
                     <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>modular &amp; multipurpose</h4>
                   </div>
                   <div class="overflow-hidden">
-                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Create rich UI and style with sparrow's array of ready-made modular sections - carefully designed for wide range of purposes.</p>
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Create rich UI and style with an array of ready-made modular sections - carefully designed for wide range of purposes.</p>
                   </div>
                 </div>
               </div>
@@ -296,7 +296,7 @@
                     <h4 class="mb-2" data-zanim-xs='{"delay":0.1,"animation":"slide-right"}'>familiar markup</h4>
                   </div>
                   <div class="overflow-hidden">
-                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Based on the Bootstrap 4 code base, sparrow's code is instantly familiar, easy to understand and a straightforward to extend.</p>
+                    <p data-zanim-xs='{"delay":0.2,"animation":"slide-right"}'>Based on the Bootstrap 4 code base, my templates are instantly familiar, easy to understand and a straightforward to extend.</p>
                   </div>
                 </div>
               </div>
@@ -411,14 +411,14 @@
           <div class="row justify-content-center">
             <div class="col-md-6">
               <h2 class="fs-3 fs-sm-4 text-underline mb-3">performance?</h2>
-              <p class="text-500 font-italic">Be surprised seeing the final outcome of your creation with sparrow and want more, no matter the task.</p>
+              <p class="text-500 font-italic">Be surprised seeing the final outcome of your creation and want more, no matter the task.</p>
             </div>
           </div>
           <div class="row align-items-center mt-6">
             <div class="col-md-6">
               <div class="progress-circle mb-4" data-options='{"progress":88,"text":"<span class=&#39;text-700 pt-2&#39;>More Power behind<br/>every pixel</span>"}'></div>
               <h4>Record Breaking in History</h4>
-              <p class="px-4">Creating with sparrow is an easier, faster way to get things done. And it makes development even more effortless.</p>
+              <p class="px-4">Creating from my templates is an easier, faster way to get things done. And it makes development even more effortless.</p>
             </div>
             <div class="col-md-6 pl-md-7 text-left mt-8 mt-md-0">
               <div class="progress-line mr-4" data-options='{"progress":93,"text":"Google Page Speed"}'></div>
@@ -586,7 +586,7 @@
     <script src="assets/js/progressbar.min.js"></script>
     <script src="assets/js/theme.js"></script>
     <!-- To let people know this is under construction (to be commented out later) -->
-    <script src="assets/js/toogreen/construction-alert.js"></script>
+    <!-- <script src="assets/js/toogreen/construction-alert.js"></script> -->
 
   </body>
 

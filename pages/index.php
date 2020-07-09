@@ -22,6 +22,7 @@
     <!meta name="msapplication-TileImage" content="assets/img/favicons/mstile-150x150.png">
     <!meta name="theme-color" content="#ffffff">
     <link rel="icon" href="http://toogreen.ca/blog/wp-content/uploads/2020/07/icloud-avatar.png" sizes="32x32" />
+    <link rel="icon" href="http://toogreen.ca/blog/wp-content/uploads/2020/07/icloud-avatar.png" sizes="192x192" />
 
     <!-- ===============================================-->
     <!--    Stylesheets-->

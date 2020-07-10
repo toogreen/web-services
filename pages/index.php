@@ -223,7 +223,7 @@
 <hr>
 
       <!-- ============================================-->
-      <!-- <section> begin ============================-->
+      <!-- <section> begin ============================
       <section id="default-services">
         <div class="container">
           <div class="row justify-content-center">
@@ -321,9 +321,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>-->
         <!-- end of .container-->
-      </section>
+      <!-- /section>-->
       <!-- <section> close ============================-->
       <!-- ============================================-->
 

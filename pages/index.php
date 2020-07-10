@@ -130,7 +130,7 @@
                     <div class="d-lg-flex align-items-center font-weight-bold ls mt-3 mt-md-5 text-uppercase" data-zanim-xs='{"delay":0.4}'>
                       <h6 class="mb-lg-0">Follow Me:</h6>
                       <div class="overflow-hidden">
-                        <a href="https://www.facebook.com/david.gagnon.toogreen" target="_blank"><span class="fab fa-facebook text-dark mr-2 ml-3 fs-0"></span></a>
+                        <!-- a href="https://www.facebook.com/david.gagnon.toogreen" target="_blank"><span class="fab fa-facebook text-dark mr-2 ml-3 fs-0"></span></a> -->
                         <a href="https://twitter.com/2green" target="_blank"><span class="fab fa-twitter text-dark mr-2 fs-0"></span></a>
                         <a href="https://www.linkedin.com/in/david-gagnon-4660a128/" target="_blank"><span class="fab fa-linkedin text-dark mr-2 fs-0"></span></a>
                         <a href="https://www.instagram.com/tougrine/" target="_blank"><span class="fab fa-instagram text-dark mr-2 fs-0"></span></a>

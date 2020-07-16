@@ -503,7 +503,7 @@
                 </a>
               </div>
               <div class="overflow-hidden">
-                <h6 class="text-700 font-weight-normal text-uppercase ls" data-zanim-xs='{"from":{"y":22},"delay":0.3}'>The Geek</h6>
+                <h6 class="text-700 font-weight-normal text-uppercase ls" data-zanim-xs='{"from":{"y":22},"delay":0.3}'>The Artist, the Geek</h6>
               </div>
             </div>
           </div>
